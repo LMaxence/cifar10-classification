@@ -1,7 +1,7 @@
 TP3 Deep Learning with PyTorch: CIFAR10 object classification
 ===
 
-Link to the associated github : link
+Link to the associated github : https://github.com/LMaxence/Cifar10_Classification
 
 ## I. Intro
 
